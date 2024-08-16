@@ -56,4 +56,4 @@ Crypto-tierradentro Funciona en todas las versiones, de todos los navegadores.
 
 ---
 
-Desarrollado con afan y ganas  por William Tierradentro  | william.tierradentro.a@gmail.com
+Desarrollado con afan, ganas y tres tasas de café 👍  por William Tierradentro  | william.tierradentro.a@gmail.com
