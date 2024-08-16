@@ -46,14 +46,8 @@ Crypto-tierradentro Funciona en todas las versiones, de todos los navegadores.
 
 ## Contribuye al proyecto
 
-¿Tienes ideas para mejorar Crypto-tierradentro? ¡Tu ayuda es bienvenida!
-1. Haz fork del proyecto.
-2. Crea una nueva rama (`git checkout -b mi-nueva-funcion`).
-3. Commitea tus cambios (`git commit -am 'Añadí una nueva función'`).
-4. Sube tu rama (`git push origin mi-nueva-funcion`).
-5. Abre un Pull Request.
-
+¿Tienes ideas para mejorar Crypto-tierradentro? Al tratarse de un proyecto educativo, puedes corregir, descargar y generar aportes a este proyecto.
 
 ---
 
-Desarrollado con afan, ganas y tres tasas de café 👍  por William Tierradentro  | william.tierradentro.a@gmail.com
+Desarrollado con afan, con ganas y tres tasas de café 👍  por William Tierradentro  | william.tierradentro.a@gmail.com
